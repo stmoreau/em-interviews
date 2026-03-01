@@ -149,4 +149,8 @@ These are usually projects which we need to implement at our own time and pace. 
 - Your offer will always have a mix of fixed, variable and ESOPs
 - Try to negotiate for overall value depending on the stage of the company. In case of ESOPs ask for number of options and current valuation
 
+## Interview Prep Tools
+- [AI Interview Coach](https://em-tools.io/interview-prep) - Voice-based AI behavioral interview practice for engineering managers and software engineers. 130+ role-specific questions, STAR-format scoring across 6 dimensions, probing follow-ups, and 3 interviewer personas (Startup CTO, Big Tech VP, Scale-up Director). Free first question.
+
+
 
